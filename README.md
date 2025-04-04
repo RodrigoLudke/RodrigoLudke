@@ -4,7 +4,7 @@
 
 
 
-<img align="right" height="350em" src="" style="display: flex; justify-content: center; float: right;">
+<img align="right" height="300em" src="frierenpng3.png" style="display: flex; justify-content: center; float: right;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
@@ -60,4 +60,4 @@
 <br>
 <br>
 
-<img style="width:500rem" src="Midias/download.png">
+<img style="width:500rem" src="Midias/frieren5.gif">
