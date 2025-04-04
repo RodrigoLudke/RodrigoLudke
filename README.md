@@ -4,7 +4,7 @@
 
 
 
-<img align="right" height="540em" src="Midias/dowload.gif" style="display: flex; justify-content: center; float: right;">
+<img align="right" height="380em" src="Midias/download.gif" style="display: flex; justify-content: center; float: right;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
@@ -18,15 +18,12 @@
 
 
 <div style="displax:flex; flex-direction: row;justify-content: space-between; gap:1rem">
-  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=victoriaflb&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RodrigoLudke&layout=compact&langs_count=7&theme=tokyonight"/>
   <img height="130em" src="https://custom-doodle.com/wp-content/uploads/doodle/howls-moving-castle-cute-calcifer/howls-moving-castle-cute-calcifer-doodle.gif"/>
   
 </div>
 <br>
 
-<br>
-<br>
-<br>
 <br>
 <br>
 <h1 align="center">Tecnologias que eu uso no meu dia:</h1> 
@@ -49,7 +46,7 @@
 
 
   
-  <img height="50" src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif">
+  
   
 
 
