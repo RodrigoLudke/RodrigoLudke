@@ -60,4 +60,4 @@
 <br>
 <br>
 
-<img style="width:500rem" src="Midias/- Find & Share on GIPHY.gif">
+<img style="width:500rem" src="Midias/download.gif">
