@@ -4,7 +4,7 @@
 
 
 
-<img align="right" height="450em" src="Midias/ps.png" style="display: flex; justify-content: center; float: right;">
+<img align="right" height="450em" src="Midias/cat5.png" style="display: flex; justify-content: center; float: right;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
