@@ -60,4 +60,4 @@
 <br>
 <br>
 
-<img style="width:500rem" src="Midias/cat4.png" class="rotate-image">
+<img style="width:500rem" src="Midias/cat12.png" class="rotate-image">
