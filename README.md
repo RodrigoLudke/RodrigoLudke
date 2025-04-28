@@ -17,11 +17,11 @@
 
 
 
-<div style="displax:flex; flex-direction: row;justify-content: space-between; gap:1rem">
+<div style="display: flex; flex-direction: row; justify-content: space-between; gap: 1rem;">
   <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RodrigoLudke&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="130em" src="https://custom-doodle.com/wp-content/uploads/doodle/howls-moving-castle-cute-calcifer/howls-moving-castle-cute-calcifer-doodle.gif"/>
-  
+  <img height="130em" style="margin-left: 1rem;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3R4cWpjaDB5YXg5eHBuNXhpbnlmbGUyNjRsczQ5aW10d2s2MXhzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PKxpnnsHrVS1fOiWPN/giphy.gif"/>
 </div>
+
 <br>
 
 <br>
