@@ -4,6 +4,7 @@
 
 
 
+
 <img align="right" height="450em" src="Midias/frieren.png" style="display: flex; justify-content: center; float: right;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
