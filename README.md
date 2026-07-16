@@ -13,7 +13,8 @@
 
 
 
-![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoLudke&show_icons=true&theme=radical)
+![Rodrigo GitHub stats](https://raw.githubusercontent.com/RodrigoLudke/RodrigoLudke/main/assets/stats.svg)
+![Top Langs](https://raw.githubusercontent.com/RodrigoLudke/RodrigoLudke/main/assets/top-langs.svg)
 
 
 
