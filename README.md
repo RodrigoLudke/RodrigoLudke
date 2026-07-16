@@ -14,8 +14,6 @@
 
 
 ![Rodrigo GitHub stats](https://raw.githubusercontent.com/RodrigoLudke/RodrigoLudke/main/assets/stats.svg)
-![Top Langs](https://raw.githubusercontent.com/RodrigoLudke/RodrigoLudke/main/assets/top-langs.svg)
-
 
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; gap: 1rem;">
