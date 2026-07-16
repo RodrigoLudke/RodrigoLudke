@@ -14,7 +14,8 @@
     .icon { fill: #f8d847; }
   </style>
  
-  <rect x="0.5" y="0.5" rx="4.5" width="494" height="194" fill="#141321" stroke="#141321"/>
+  <!-- Borda do card. Para tirar: troque stroke-opacity para 0 -->
+  <rect x="0.5" y="0.5" rx="4.5" width="494" height="194" fill="#141321" stroke="#e4e2e2" stroke-opacity="1"/>
  
   <text x="25" y="35" class="header">Rodrigo Ludke's GitHub Stats</text>
  
