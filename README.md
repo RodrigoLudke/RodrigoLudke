@@ -28,21 +28,23 @@
 <br>
 <h1 align="center">Tecnologias que eu uso no meu dia:</h1> 
 
-<div align="center"  style="display:flex; justify-content: center; height="30"; width="40"><br>
-   <img alt="html5" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img alt="css"   height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img alt="javascript" height="40" src="https://gist.githubusercontent.com/victoriaflb/9d2bd432bcd753a047f903c917fb8803/raw/d183ace5483667c8bbe87939ec54726f6210e997/js.svg">
-   <img alt="React" height="40" src="https://gist.githubusercontent.com/victoriaflb/ea91243f5a81b6096bcb93a59abb4339/raw/77edcb5538e945f675ee09ea7b8533a21157cf69/react.svg">
-  <img alt="MySQL" height="40" src="https://gist.githubusercontent.com/victoriaflb/a792cf2ab65a30b91cfda36f9010c873/raw/1457b20b3d60900100ab5a7d56a5c2fe9a983a62/mysql.svg">
-   <img alt="pyhton" height="40"  src="https://gist.githubusercontent.com/victoriaflb/41665548fd3126bfd554fa00c8a678c6/raw/e9a33588248f3b4c45f3b327e060aed41b742a3c/python.svg">
-   <img alt="github" height="40"  src="https://gist.githubusercontent.com/victoriaflb/97efd83c87833da6515ad7af12a2eabb/raw/2b31cc77e8fdd142b8875f13b0de1be49e367978/github.svg">
-   <img alt="codepen.io" height="40"  src="https://gist.githubusercontent.com/victoriaflb/0b500398755a3bacf45aaff7e7b17bfd/raw/f12bdff7c0f22fbdb98e35eeae996f6ed0a7fc9c/codepen.svg">
-   <img alt="figma" height="40"  src="https://gist.githubusercontent.com/victoriaflb/7ba7929d69bbe856319f34c6a1851ae1/raw/596b872f28dc0dc79d9d2cdb7856dd90225fc831/figma.svg">
-   <img alt="php" height="40"  src="https://gist.githubusercontent.com/victoriaflb/f73a74d5d1c973961e653c934afda78e/raw/b7bb0cc13eb73d372c9200f5f0c4a16ba0196e67/php.svg">
-  <img alt="linux" height="40" src="https://gist.githubusercontent.com/victoriaflb/ae6d81fe72aecd3ca824fce7504154c1/raw/20fa99aba7815480279fd6f0da2d47b8b222cb9f/linux2.svg">
-    <img alt="java" height="40" src="https://gist.githubusercontent.com/victoriaflb/77b5480d04dca4522ce33ac7d533c346/raw/f564163d4c10c5669788e38366c889175f2cc4fe/java.svg">
-    <img alt="flutter" height="40" src="https://gist.githubusercontent.com/victoriaflb/7d947a608e5004df3b0e47d28f52db83/raw/1d72e5b0cd8eaa6933a788c2c53a171106b8e52e/flutter.svg">
-
+<div align="center">
+  <img alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img alt="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img alt="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="Tailwind CSS" height="40" src="https://cdn.simpleicons.org/tailwindcss/06B6D4">
+  <img alt="Node.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img alt="PostgreSQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img alt="Docker" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+    <img alt="GitHub" height="40" src="https://cdn.simpleicons.org/github/181717">
+  </picture>
 
 
   
