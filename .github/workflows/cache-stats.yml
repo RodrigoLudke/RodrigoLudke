@@ -12,7 +12,7 @@ jobs:
   cache:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Baixar os cards
         run: |
@@ -22,28 +22,32 @@ jobs:
             url="$1"; destino="$2"
             tmp=$(mktemp)
 
-            if ! curl -sfL --max-time 30 "$url" -o "$tmp"; then
-              echo "::warning::Download de $destino falhou — mantendo versão anterior"
-              return 0
-            fi
+            for tentativa in 1 2 3 4 5; do
+              codigo=$(curl -sL --max-time 30 -w "%{http_code}" "$url" -o "$tmp")
+              echo "[$destino] tentativa $tentativa → HTTP $codigo"
 
-            # rejeita se não for SVG ou se for o card de erro
-            if ! head -c 300 "$tmp" | grep -qi "<svg"; then
-              echo "::warning::$destino não é um SVG — mantendo versão anterior"
-              return 0
-            fi
-            if grep -qi "Something went wrong\|Error Fetching\|Maximum retries" "$tmp"; then
-              echo "::warning::$destino veio com erro — mantendo versão anterior"
-              return 0
-            fi
+              if [ "$codigo" = "200" ] && head -c 300 "$tmp" | grep -qi "<svg"; then
+                if grep -qi "Something went wrong\|Error Fetching\|Maximum retries" "$tmp"; then
+                  echo "[$destino] SVG de erro, tentando de novo"
+                else
+                  mv "$tmp" "assets/$destino"
+                  echo "✓ $destino atualizado"
+                  return 0
+                fi
+              fi
 
-            mv "$tmp" "assets/$destino"
-            echo "✓ $destino atualizado"
+              sleep $((tentativa * 15))
+            done
+
+            echo "::warning::$destino falhou em todas as tentativas"
+            if [ ! -f "assets/$destino" ]; then
+              echo "::error::$destino nunca foi baixado — não há cache pra manter"
+            fi
           }
 
           baixar "https://github-readme-stats.vercel.app/api?username=RodrigoLudke&show_icons=true&theme=radical" "stats.svg"
           baixar "https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLudke&layout=compact&theme=radical" "top-langs.svg"
-
+          
       - name: Commitar se mudou
         run: |
           git config user.name "github-actions[bot]"
