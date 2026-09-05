@@ -35,7 +35,6 @@ Desenvolvedor <b>Full Stack</b>. Atualmente focado nos meus dois maiores projeto
 <!-- ======================= TECNOLOGIAS ======================= -->
 <h2 align="center">🛠️ Tecnologias que eu uso no meu dia</h2>
 
-<h4 align="center">Frontend</h4>
 <p align="center">
   <img alt="HTML5" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS3" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -47,18 +46,10 @@ Desenvolvedor <b>Full Stack</b>. Atualmente focado nos meus dois maiores projeto
     <img alt="Next.js" height="42" src="https://cdn.simpleicons.org/nextdotjs/000000">
   </picture>
   <img alt="Tailwind CSS" height="42" src="https://cdn.simpleicons.org/tailwindcss/06B6D4">
-</p>
-
-<h4 align="center">Backend</h4>
-<p align="center">
   <img alt="Node.js" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img alt="Python" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Java" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img alt="PostgreSQL" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-</p>
-
-<h4 align="center">Ferramentas &amp; DevOps</h4>
-<p align="center">
   <img alt="Git" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
@@ -76,5 +67,5 @@ Desenvolvedor <b>Full Stack</b>. Atualmente focado nos meus dois maiores projeto
 <!-- h2 vazio = mesma linha fina dos titulos (o <hr> fica grosso demais) -->
 <h2></h2>
 <p align="center">
-  <img width="800" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZoamEwMzlmMTNtaGF1a2hvN204b2FidGZ4Z2FvMnk0cWFoN2VhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jtDEDcqMjDVODssiEs/giphy.gif" alt="gif" />
+  <img width="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZoamEwMzlmMTNtaGF1a2hvN204b2FidGZ4Z2FvMnk0cWFoN2VhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jtDEDcqMjDVODssiEs/giphy.gif" alt="gif" />
 </p>
