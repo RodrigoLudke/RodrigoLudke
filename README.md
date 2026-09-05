@@ -62,10 +62,3 @@ Desenvolvedor <b>Full Stack</b>. Atualmente focado nos meus dois maiores projeto
 </p>
 
 <br>
-
-<!-- ======================= GIF (rodape pessoal) ======================= -->
-<!-- h2 vazio = mesma linha fina dos titulos (o <hr> fica grosso demais) -->
-<h2></h2>
-<p align="center">
-  <img width="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZoamEwMzlmMTNtaGF1a2hvN204b2FidGZ4Z2FvMnk0cWFoN2VhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jtDEDcqMjDVODssiEs/giphy.gif" alt="gif" />
-</p>
