@@ -26,7 +26,7 @@ Desenvolvedor <b>Full Stack</b>. Atualmente focado nos meus dois maiores projeto
 </p>
 
 <!-- Gif da Frieren (ajuste o height se quiser maior/menor) -->
-<img height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3R4cWpjaDB5YXg5eHBuNXhpbnlmbGUyNjRsczQ5aW10d2s2MXhzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PKxpnnsHrVS1fOiWPN/giphy.gif" alt="Frieren" />
+<img height="160" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3R4cWpjaDB5YXg5eHBuNXhpbnlmbGUyNjRsczQ5aW10d2s2MXhzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PKxpnnsHrVS1fOiWPN/giphy.gif" alt="Frieren" />
 
 <!-- limpa o float pra secao de tecnologias comecar abaixo -->
 <br clear="all"/>
