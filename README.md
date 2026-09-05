@@ -14,21 +14,21 @@
 
 <h3>💻 Sobre mim</h3>
 
-Desenvolvedor <b>Full Stack</b> apaixonado por construir coisas e resolver problemas.<br>
-🌱 Sempre estudando novas tecnologias<br>
-📫 Contato: <b>(seu email/rede aqui)</b>
+Desenvolvedor <b>Full Stack</b>. Atualmente focado nos meus dois maiores projetos:
 
-<!-- Redes sociais - COLOQUE SEUS LINKS ENTRE OS PARENTESES ( ) -->
+🍃 <a href="https://www.getnutriapp.com"><b>NutriApp</b></a> — app de nutrição<br>
+🚗 <a href="https://www.controledefrotas.com"><b>Controle de Frotas</b></a> — gestão de frotas
+
+<!-- Contato + redes (email vira botao clicavel via mailto) -->
 <p>
-  <a href="COLOQUE_SEU_LINK_AQUI"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="COLOQUE_SEU_LINK_AQUI"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="COLOQUE_SEU_LINK_AQUI"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://github.com/RodrigoLudke"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:rodrigoludke123@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/rodrigoludke"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=RodrigoLudke&label=Profile%20views&color=fe428e&style=flat" alt="profile views" />
+<!-- Gif da Frieren (ajuste o height se quiser maior/menor) -->
+<img height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3R4cWpjaDB5YXg5eHBuNXhpbnlmbGUyNjRsczQ5aW10d2s2MXhzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PKxpnnsHrVS1fOiWPN/giphy.gif" alt="Frieren" />
 
-<!-- limpa o float pra proxima secao comecar abaixo -->
+<!-- limpa o float pra secao de tecnologias comecar abaixo -->
 <br clear="all"/>
 <br>
 
@@ -72,13 +72,9 @@ Desenvolvedor <b>Full Stack</b> apaixonado por construir coisas e resolver probl
 
 <br>
 
-<!-- ======================= COBRINHA (SNAKE) =======================
-     Precisa do GitHub Action pra funcionar (instrucoes no chat).
-     Enquanto nao configurar, mostra a imagem padrao "dark". -->
-<h2 align="center">🐍 Contribuições</h2>
+<!-- ======================= GIF (rodape pessoal) ======================= -->
+<!-- h2 vazio = mesma linha fina dos titulos (o <hr> fica grosso demais) -->
+<h2></h2>
 <p align="center">
-  <img width="95%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img width="800" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZoamEwMzlmMTNtaGF1a2hvN204b2FidGZ4Z2FvMnk0cWFoN2VhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jtDEDcqMjDVODssiEs/giphy.gif" alt="gif" />
 </p>
-
-<!-- ======================= RODAPE (onda animada) ======================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a9fef7,50:fe428e,100:141321&height=120&section=footer" />
