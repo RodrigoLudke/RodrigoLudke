@@ -17,7 +17,7 @@
 Desenvolvedor <b>Full Stack</b>. Atualmente focado nos meus dois maiores projetos:
 
 🍃 <a href="https://www.getnutriapp.com"><b>NutriApp</b></a> — app de nutrição<br>
-🚗 <a href="https://www.controledefrotas.com"><b>Controle de Frotas</b></a> — gestão de frotas
+🚗 <a href="https://www.controlefrotas.com"><b>Controle de Frotas</b></a> — gestão de frotas
 
 <!-- Contato + redes (email vira botao clicavel via mailto) -->
 <p>
